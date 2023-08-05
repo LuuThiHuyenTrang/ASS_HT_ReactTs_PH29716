@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1 update 2",
+      "price": "100000",
+      "image": "https://picsum.photos/200/100",
+      "description": "Description 1",
+      "categoryId": 1
+    },
+    {
+      "id": 8,
+      "name": "Product 1 update 2",
+      "price": "100000",
+      "image": "https://picsum.photos/200/100",
+      "description": "Description 1",
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "name": "Product 1 update 2",
+      "price": "100000",
+      "image": "https://picsum.photos/200/100",
+      "description": "Description 1",
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Product 1 update 2",
+      "price": "100000",
+      "image": "https://picsum.photos/200/100",
+      "description": "Description 1",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 200,
+      "image": "https://picsum.photos/200/100",
+      "description": "Description 2",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "image": "https://picsum.photos/200/100",
+      "price": 300679,
+      "description": "Description 3",
+      "categoryId": 1
+    },
+    {
+      "name": "FIGHTERS heheh",
+      "image": "https://tse1.explicit.bing.net/th?id=OIP.QgSiaFLQIfJEPFD-gvgTpwHaHa&pid=Api&P=0&h=180",
+      "price": 53534,
+      "description": "fdbgnh",
+      "categoryId": 1,
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Danh muc 1"
+    },
+    {
+      "id": 2,
+      "name": "Danh muc 2"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "user",
+      "email": "user@gmail.com",
+      "password": "12345",
+      "role": "member"
+    },
+    {
+      "name": "FIGHTERS heheh",
+      "email": "@gmail",
+      "password": "12345",
+      "role": "member",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Huyen Trang",
+      "email": "chang@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "role": "member"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "admin"
+    },
+    {
+      "id": 2,
+      "name": "user"
+    }
+  ]
+}
